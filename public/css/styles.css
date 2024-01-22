@@ -1,0 +1,13 @@
+.bg-img{
+background-image: url('../img/bg-img.jpg');
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+}
+
+.bg-mg{
+    background-image: url('../img/bg-mg.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    }
